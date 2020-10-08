@@ -5,7 +5,6 @@ var CurrentPageURL = window.location.href;
 var str = CurrentPageURL;
 var SBSPageURL = str.replace("bodleian", "sbs");
 
-
 var RedirectURL = LastCaptureURL + SBSPageURL;
 
 // Write to document
